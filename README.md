@@ -1,4 +1,5 @@
 # ethereum-payment-vuejs
+https://medium.com/coinmonks/ethereum-dapp-with-vuejs-app-ec56ac8c5951
 Simple Dapp and Vuejs app that manage payments in *ether*.  
   
 The project includes the following modules:
